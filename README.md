@@ -23,7 +23,7 @@ This project analyzes an **E-commerce sales dataset** to understand sales perfor
 **Project Folder:** `Ecommerce Sales Analysis Dashboard`
 
 ---
-# Images
+### Images
 
 - ## Sales vs Profit by Category
 
