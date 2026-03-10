@@ -1,29 +1,29 @@
-# Data Analysis Projects Portfolio
+# E-commerce Sales Analysis Dashboard
 
-This repository contains my **Data Analysis portfolio projects** built using **Python, SQL, and data visualization libraries**.
-The goal of these projects is to practice real-world data analysis tasks such as **data cleaning, exploratory data analysis, visualization, and extracting business insights**.
+## Overview
+This project analyzes a sample superstore dataset to visualize:
+- Total **Sales** and **Profit** by Category.
+- Monthly **Sales** and **Profit** trends.
 
----
+## Tools Used
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
 
-## Projects
+## Features
+- Bar charts for **Category-wise Sales and Profit**.
+- Line charts for **Monthly Sales and Profit Trends**.
+- Value labels on charts for clarity.
+- Clean, professional visualizations ready for portfolio presentation.
 
-### 1. E-commerce Sales Analysis Dashboard
+## Dataset
+The dataset used in this project is the **Sample Superstore Dataset** available on Kaggle.
 
-**Tools:** Python, Pandas, Matplotlib, Seaborn
+🔗 Dataset Link:  
+https://www.kaggle.com/datasets/vivek468/superstore-dataset-final
 
-This project analyzes an **E-commerce sales dataset** to understand sales performance, profit distribution, and monthly trends.
-
-**Key Analysis**
-
-* Sales by Category
-* Profit by Category
-* Monthly Sales Trend
-* Monthly Profit Trend
-
-**Project Folder:** `Ecommerce Sales Analysis Dashboard`
-
----
-### Images
+# Images
 
 - ## Sales vs Profit by Category
 
@@ -33,9 +33,3 @@ This project analyzes an **E-commerce sales dataset** to understand sales perfor
 ![Monthly Sales and Profit Trend](https://drive.google.com/uc?export=view&id=1qys56bP6TFIBW0TQok6DyvYN1-ycu9B3)
 
 
-
-## Author
-
-Muhammad Zain
-
-Aspiring Data Analyst
